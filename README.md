@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="380px" />
 
+## 🧐 About
 - 🧑 I'm a competitive programmer and a frnot-end web developer.
 - 🔭 I’m currently working on Javascript Projects.
 - 🌱 I’m currently learning Javascript and DSA.
