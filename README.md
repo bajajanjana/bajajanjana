@@ -1,11 +1,11 @@
-#### <h1 align="center"> Hello world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center"> I'm Anjana Bajaj</h3>
+#### <h1 align="center"> Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm Anjana Bajaj</h1>
 
 <!--
 **bajajanjana/bajajanjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragativerma18" alt="pragativerma18" /> </p>
 
 - 🧑 I'm a competitive programmer and a frnot-end web developer.
 - 🔭 I’m currently working on Javascript Projects.
