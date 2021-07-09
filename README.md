@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragativerma18" alt="pragativerma18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bajajanjana" alt="bajajanjana" /> </p>
 
 - 🧑 I'm a competitive programmer and a frnot-end web developer.
 - 🔭 I’m currently working on Javascript Projects.
