@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajajanjana" alt="bajajanjana" /> </p>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="380px" />
+
 - 🧑 I'm a competitive programmer and a frnot-end web developer.
 - 🔭 I’m currently working on Javascript Projects.
 - 🌱 I’m currently learning Javascript and DSA.
@@ -15,12 +17,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bajajanjana1999@gmail.com
 - ⚡ Fun fact: All time mood -'let's go for kullhad wali chai.'
 
+<br>
+<br>
+
 ## 🛠 Tech Stack
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
+
+<br>
 
 ## Connect🙌 - Let's become friends:
 <div align="center">
