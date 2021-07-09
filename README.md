@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: All time mood -'let's go for kullhad wali chai.'
 
 <br>
-<br>
 
 ## 🛠 Tech Stack
 <!-- BLOG-POST-LIST:START -->
