@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 ## 🧐 About
 - 🧑 I'm a competitive programmer and a frnot-end web developer.
-- 🔭 I’m currently working on Javascript Projects.
-- 🌱 I’m currently learning Javascript and DSA.
+- 🔭 I’m currently working on Javascript and ReactJs Projects.
+- 🌱 I’m currently learning ReactJs and DSA.
 - 👯 I’m looking to build some Real Life projects in collaboration.
 - 💬 Discuss with me about logics , algorithms and Javascript concepts.
 - 📫 How to reach me: bajajanjana1999@gmail.com
