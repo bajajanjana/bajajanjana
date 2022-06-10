@@ -7,8 +7,6 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajajanjana" alt="bajajanjana" /> </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="380px" />
-
 ## 🧐 About
 - 🧑 I'm a competitive programmer and a frnot-end web developer.
 - 🔭 I’m currently working on Javascript and ReactJs Projects.
