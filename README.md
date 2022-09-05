@@ -8,10 +8,9 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajajanjana" alt="bajajanjana" /> </p>
 
 ## 🧐 About
-- 🧑 I'm a competitive programmer and a frnot-end web developer.
-- 🔭 I’m currently working on Javascript and ReactJs Projects.
-- 🌱 I’m currently learning ReactJs and DSA.
-- 👯 I’m looking to build some Real Life projects in collaboration.
+- 🧑 I'm a competitive programmer and a front-end web developer.
+- 🔭 I’m currently working on Algorithms learning and logic building.
+- 🌱 Have interned at two startups Byjus Exam prep and Invsto.
 - 💬 Discuss with me about logics , algorithms and Javascript concepts.
 - 📫 How to reach me: bajajanjana1999@gmail.com
 - ⚡ Fun fact: All time mood -'let's go for kullhad wali chai.'
